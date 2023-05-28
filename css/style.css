@@ -1,0 +1,12 @@
+.wrapper {
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 0 4%;
+    text-align: center;
+}
+
+#main-visual img {
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+}
